@@ -1,7 +1,3 @@
-# Estrella-definitiva
-En enlace a mi repositorio es el siguiente:https://github.com/blancabalmori/Estrella-definitiva.git
-
-El código que he creado dibuja una estrella de n puntas:
 import turtle
 ws = turtle.Screen()
 geekyTurtle = turtle.Turtle()
